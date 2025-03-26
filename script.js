@@ -9,7 +9,7 @@ var w = c.width = window.innerWidth,
     opts = {
         get strings() {
             const sentences = [
-                ['HAPPY', 'BIRTHDAY! , Sarina...!'],
+                ['HAPPY', 'BIRTHDAY! , Zahra jooooooon ...!'],
             ];
 
             return sentences[sentenceIndex++ % sentences.length];
